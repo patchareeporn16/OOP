@@ -1,0 +1,17 @@
+.v_tree {
+    width: 300px;
+    height: 750px;
+    background-color: #ffffff;
+    overflow: scroll;
+}
+.photo{
+    width: 600px;
+    height:  600px;
+    object-fit: contain;
+}
+.site-layout-background{
+    width: 800px;
+    height: 750px;
+    background-color: #ffffff;
+    overflow: scroll; 
+}
